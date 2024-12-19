@@ -149,7 +149,7 @@ function draw() {
     {
       title: `Lets Start!`,
       text: "Using your spacebar, fly the plane until you reach the airport, Good Luck!",
-      imageUrl: "https://raw.githubusercontent.com/pgsmart/Pyshics-Game/main/assets/airport.png",
+      imageUrl: "https://raw.githubusercontent.com/pranoov/Pyshics-Game/main/assets/airport.png",
       imageSize: "300x300",
       confirmButtonText: "Play Game",
     },
